@@ -1,4 +1,5 @@
-//This example demonstrates how to receive temperature data from an internal sensor of ESP32S2 (ESP32-C2, ESP32-C3, ESP32-C6, ESP32-H2, ESP32-S2, ESP32-S3)
+// This example demonstrates how to receive temperature data from an internal sensor of ESP32S2 (ESP32-C2, ESP32-C3, ESP32-C6, ESP32-H2, ESP32-S2, ESP32-S3)
+// https://github.com/Dammerhaft
 
 // Driver for internal temperature sensor
 #include "driver/temp_sensor.h"
